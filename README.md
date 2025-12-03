@@ -9,5 +9,6 @@
 - Multiple alias keymaps including full numpad support
 
 - Structured, readable code designed for future expansion
-- 
+
+
  **More features coming soon**
